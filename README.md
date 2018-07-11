@@ -1,12 +1,8 @@
-##Version 1.1.100.0
+For What is new, please read
 
-1. [NEW] MUI 5 languages supported
-  + English (en)
-  + Chinese Simplified (zh-Hans)
-  + Spanish (es)
-  + Japanese (ja)
-  + Chinese Tranditional (zh-Hant)
-  
-2. [FIX] Printing first line missing
+https://github.com/hereafter/dotNotepad/wiki
 
 
+Get the application
+
+http://www.microsoft.com/store/productId/9N0SL14W97L7
